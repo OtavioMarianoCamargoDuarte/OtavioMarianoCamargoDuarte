@@ -8,7 +8,7 @@ Atualmente estou focado em:
 - Git e GitHub
 - Estruturas de Dados
 - Persistência de Dados
-- Regras de Negócio
+- Regras de negócio
 - Lógica de Programação
 
 ## 🚀 Projetos em Destaque
@@ -42,4 +42,4 @@ https://github.com/OtavioMarianoCamargoDuarte/ProjetoLocadora
 ## 📫 Contato
 
 - GitHub: https://github.com/OtavioMarianoCamargoDuarte
--LinkedIN: www.linkedin.com/in/otavio-mariano-camargo-duarte-3a4a552a1
+- LinkedIN: www.linkedin.com/in/otavio-mariano-camargo-duarte-3a4a552a1
