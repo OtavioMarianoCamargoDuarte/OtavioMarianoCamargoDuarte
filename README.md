@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá, eu sou Otavio Mariano Camargo Duarte 👋
 
-<!--
-**OtavioMarianoCamargoDuarte/OtavioMarianoCamargoDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação, estudando Python e desenvolvimento de software através da construção de projetos práticos.
 
-Here are some ideas to get you started:
+Atualmente estou focado em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Git e GitHub
+- Estruturas de Dados
+- Persistência de Dados
+- Regras de Negócio
+- Lógica de Programação
+
+## 🚀 Projetos em Destaque
+
+### 🚗 Projeto Locadora
+
+Sistema completo de gerenciamento para uma locadora de veículos.
+
+Funcionalidades:
+
+- Gestão de veículos
+- Gestão de motoristas
+- Gestão de aluguéis
+- Persistência em JSON
+- Relatórios gerenciais
+- Dashboard com indicadores
+- Validações de integridade
+
+🔗 Projeto:
+
+https://github.com/OtavioMarianoCamargoDuarte/ProjetoLocadora
+
+## 📚 Atualmente estudando
+
+- Python
+- SQL
+- SQLite
+- Estruturas de Dados
+- Programação Orientada a Objetos
+
+## 📫 Contato
+
+- GitHub: https://github.com/OtavioMarianoCamargoDuarte
+-LinkedIN: www.linkedin.com/in/otavio-mariano-camargo-duarte-3a4a552a1
